@@ -1,3 +1,8 @@
 # EEG-Sensor-Data-Analysis
 
-Data collected using EEG Sensor. Implemented Keras LSTM model to identify human's mental health based on their brain signals.
+Brain signals collected using EEG Sensor during human's different state of mind. 
+
+Implemented Simple Neural Network, and Deep Neural Network.
+
+Also, Implemented Keras LSTM model to identify human's mental health based on their brain signals. 
+
